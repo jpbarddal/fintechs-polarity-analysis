@@ -1,0 +1,1 @@
+# fintechs-polarity-analysis
